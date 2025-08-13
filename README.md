@@ -7,7 +7,7 @@ This project demonstrates pendulum motion, damping effects, and customizable pai
 
 ## 📸 Demo
 
-https://github.com/Ahmed-AlTahan/Simulating-Swinging-Paint-Bucket/blob/main/Demo.mp4
+<video src="https://github.com/Ahmed-AlTahan/Simulating-Swinging-Paint-Bucket/blob/main/Demo.mp4" controls autoplay loop muted width="600"></video>
 
 ---
 
